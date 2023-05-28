@@ -15,7 +15,7 @@ Model Validation
 
 Once an AI system has been trained, it's important to validate its performance to ensure that it can accurately make predictions or decisions. This typically involves testing the system using a separate set of data that it hasn't seen before.
 
-Validation can be done using techniques such as cross-validation, where the system is tested {"message":"terminated","data":null,"status":"Fail"} using multiple subsets of the data, or holdout validation, where a portion of the data is set aside specifically for testing purposes.
+Validation can be done using techniques such as cross-validation, where the system is tested using multiple subsets of the data, or holdout validation, where a portion of the data is set aside specifically for testing purposes.
 
 During model validation, it's important to measure metrics such as accuracy, precision, and recall to assess the system's performance. Additionally, it's important to consider factors such as the potential for bias in the data or machine learning algorithm, and the need for ongoing monitoring and refinement of the AI system.
 
