@@ -1,5 +1,3 @@
-Data Collection and Management
-========================================================================
 
 The success of an artificial intelligence (AI) system largely depends on the quality and quantity of data that it is trained on. In this chapter, we will explore the building blocks of AI systems, focusing on data collection and management.
 

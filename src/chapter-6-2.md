@@ -1,5 +1,3 @@
-Ethical and Legal Considerations
-========================================================================================
 
 While artificial intelligence (AI) has enormous potential to enhance business performance and transform many different industries, building successful AI systems is not without its challenges and risks. In this chapter, we will examine some of the ethical and legal considerations that businesses need to be aware of when building AI systems.
 

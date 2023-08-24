@@ -1,5 +1,3 @@
-Identifying Data Sources and Needs
-========================================================================
 
 Developing a successful artificial intelligence (AI) strategy requires careful consideration of the data sources and needs that are required to build effective AI systems. In this chapter, we will examine some key considerations for identifying data sources and needs in the context of developing an AI strategy.
 

@@ -1,5 +1,3 @@
-Testing and Deployment
-============================================================
 
 Testing and deployment are critical stages in the implementation of an AI system. In this chapter, we will explore the key considerations involved in testing and deploying an AI system.
 

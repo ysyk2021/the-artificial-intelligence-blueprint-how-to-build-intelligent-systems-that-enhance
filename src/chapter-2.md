@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand how to build intelligent systems that enhance business performance, it is essential to have a solid understanding of the history, fundamentals, and types of artificial intelligence (AI). In this chapter, we will explore the history of AI, the types of AI, and machine learning techniques.
 

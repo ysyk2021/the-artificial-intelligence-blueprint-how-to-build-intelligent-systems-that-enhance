@@ -1,5 +1,3 @@
-Chapter 3: Building Blocks of AI Systems
-========================================
 
 To successfully build intelligent systems that enhance business performance, it is essential to understand the building blocks of AI systems. In this chapter, we will explore the three key building blocks of AI systems: data collection and management, algorithm selection and design, and model training and validation.
 

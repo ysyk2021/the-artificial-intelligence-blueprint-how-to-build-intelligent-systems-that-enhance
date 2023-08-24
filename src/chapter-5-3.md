@@ -1,5 +1,3 @@
-Performance Monitoring and Evaluation
-===========================================================================
 
 Once an AI system has been implemented, it is important to monitor its performance and evaluate its impact on the business. In this chapter, we will explore the key considerations involved in monitoring and evaluating an AI system.
 

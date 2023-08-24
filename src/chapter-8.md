@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Business Performance
-================================================
 
 Emerging Trends and Potential Developments
 ------------------------------------------

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Machine learning is a key component of artificial intelligence (AI) systems. In this chapter, we will explore the background and fundamentals of machine learning techniques.
 

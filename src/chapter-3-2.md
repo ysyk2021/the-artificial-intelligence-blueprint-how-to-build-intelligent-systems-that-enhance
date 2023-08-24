@@ -1,5 +1,3 @@
-Algorithm Selection and Design
-========================================================================
 
 The success of an artificial intelligence (AI) system depends on the selection and design of appropriate algorithms. In this chapter, we will explore the building blocks of AI systems, including algorithm selection and design.
 

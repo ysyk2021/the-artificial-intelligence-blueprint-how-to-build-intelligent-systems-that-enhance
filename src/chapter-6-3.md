@@ -1,5 +1,3 @@
-Human Factors and User Adoption
-=======================================================================================
 
 Building AI systems can present numerous challenges and risks, particularly when it comes to human factors and user adoption. In this chapter, we will explore some of the key challenges and risks associated with building AI systems that are successful in enhancing business performance.
 

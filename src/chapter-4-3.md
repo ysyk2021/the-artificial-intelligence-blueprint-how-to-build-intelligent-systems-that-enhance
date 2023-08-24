@@ -1,5 +1,3 @@
-Building a Team and Infrastructure
-========================================================================
 
 Developing a successful AI strategy requires careful planning, a skilled team and the right infrastructure. In this chapter, we will explore the key elements involved in building an AI strategy, including assembling a team and establishing the necessary infrastructure.
 

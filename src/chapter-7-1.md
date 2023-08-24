@@ -1,5 +1,3 @@
-Successful Implementations of AI in Different Industries
-================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize business operations across many different industries. In this chapter, we will explore some use cases of AI in business and examine successful implementations of AI in different industries.
 

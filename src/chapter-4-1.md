@@ -1,5 +1,3 @@
-Defining Objectives and Goals
-===================================================================
 
 Building intelligent systems that enhance business performance requires a well-defined strategy. Developing an AI strategy involves defining clear objectives and goals that align with the overall business strategy. In this chapter, we will discuss the key steps involved in developing an AI strategy and how to define objectives and goals.
 

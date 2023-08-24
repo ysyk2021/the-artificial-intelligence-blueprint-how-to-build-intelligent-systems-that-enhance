@@ -1,5 +1,3 @@
-Chapter 6: Challenges and Risks in Building AI Systems
-======================================================
 
 Building AI systems is a complex process that involves a variety of technical, ethical, and human factors. In this chapter, we will discuss some of the key challenges and risks that organizations may encounter when building AI systems, including technical hurdles and limitations, ethical and legal considerations, and human factors and user adoption.
 
