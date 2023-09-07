@@ -6,3 +6,7 @@ In this chapter, we will provide an overview of the book's contents and highligh
 Whether you are new to the world of AI or a seasoned professional looking to expand your knowledge, this book will provide you with the tools and insights you need to build intelligent systems that drive business success. With a clear understanding of the fundamental concepts and practical applications of AI, you will be well-equipped to navigate the rapidly evolving landscape of this exciting and transformative field. So let's get started and discover how AI can help you achieve your business goals!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
